@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798537241836",
+    "firebase_url": "https://sherigcaref1-default-rtdb.firebaseio.com",
+    "project_id": "sherigcaref1",
+    "storage_bucket": "sherigcaref1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798537241836:android:27910621a2a56df59f41c9",
+        "android_client_info": {
+          "package_name": "com.gcit.sherigcaref1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798537241836-d9uvmnooo8femndq8ko7acjbjjm7ana8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvSDrUpEL93tf3XwELCNY1W4WJ0L2fjJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798537241836-d9uvmnooo8femndq8ko7acjbjjm7ana8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
